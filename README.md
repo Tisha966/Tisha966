@@ -2,8 +2,11 @@
 
 ## About Me
 
-I am a Full-Stack Developer currently pursuing a Master of Computer Applications at NIT Bhopal.
-Outside of coding, I enjoy visual arts and handcrafting, including sketching and embroidery, which help me build creativity and attention to detail.
+- Full-Stack Developer pursuing a Master of Computer Applications at NIT Bhopal  
+- Experienced in building scalable web applications  
+- Interested in visual arts and handcrafting, including sketching and embroidery  
+- Reach me at: [tishagupta19nov@gmail.com](mailto:tishagupta19nov@gmail.com)
+
 
 
 ## 🛠️ Skills & Tools
