@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Tisha Gupta
+# Hi there , I'm Tisha Gupta
 
 ## About Me
 
@@ -7,7 +7,7 @@ Outside of coding, I enjoy visual arts and handcrafting, including sketching and
 
 
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -21,18 +21,22 @@ Outside of coding, I enjoy visual arts and handcrafting, including sketching and
 
 
 
-## 🤝 Connect with Me
+## Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Achievements
 
+### Basic GitHub Stats
 ![Tisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tisha966&show_icons=true&theme=dark)
 
----
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tisha966&layout=compact&theme=dark)
+
+
 
 *Thanks for visiting my profile! Feel free to connect and collaborate 🤝*
 
