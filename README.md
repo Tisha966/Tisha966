@@ -1,31 +1,11 @@
 # Hi there 👋, I'm Tisha Gupta
 
-### 🌟 Passionate Full-Stack Developer | Problem Solver | Open Source Enthusiast
-
----
-
 ## About Me
 
 I'm Tisha Gupta, a passionate and detail-oriented Full-Stack Developer currently pursuing a Master of Computer Application at Maulana Azad National Institute of Technology, Bhopal.  
 Outside of coding, I enjoy visual arts and handcrafting, including sketching and embroidery, which fuel my creativity and attention to detail—qualities I bring to my software development work.
 
----
 
-## 🚀 Projects & Highlights
-
-### Crowdfunding Platform
-- Built a full-stack fundraising platform enabling secure donations and campaign analytics.
-- Tech Stack: MongoDB, React.js, Node.js, Express.js.
-
-### StuNest - Hostel Management System
-- Developed a web app for student tracking, attendance, and room management.
-- Tech Stack: MongoDB, React.js, Node.js, Express.js.
-
-### Farm to Table - E-commerce Application
-- Created an e-commerce platform with dashboards for orders, user profiles, and products.
-- Tech Stack: SQL, React.js, Node.js, Express.js.
-
----
 
 ## 🛠️ Skills & Tools
 
