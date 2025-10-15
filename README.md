@@ -5,7 +5,7 @@
 - Full-Stack Developer pursuing a Master of Computer Applications at NIT Bhopal  
 - Experienced in building scalable web applications  
 - Interested in visual arts and handcrafting, including sketching and embroidery  
-- Reach me at: [tishagupta19nov@gmail.com](mailto:tishagupta19nov@gmail.com)
+- Reach me at : [tishagupta19nov@gmail.com](mailto:tishagupta19nov@gmail.com)
 
 
 
